@@ -139,28 +139,28 @@ ____
 
 ## Course Schedule
 
-| Class | Date | Material | Recording |
+| Class | Date | Material | Recording | Homework |
 |:---:|:---:|:---:|:---:|
-| 01 | 12/12/2022 | Installations, Intro to HTML | [Recording Link]() |
-| 02 | 12/14/2022 | Semantic HTML, Intro to CSS | [Recording Link]() |
-| 03 | 12/19/2022 | Box Model | [Recording Link]() |
-| 04 | 12/21/2022 | Intro to Flexbox | [Recording Link]() |
-| 05 | 01/04/2023 | Intro to CSS Grid | [Recording Link]() |
-| 06 | 01/09/2023 | Layout Lab | [Recording Link]() |
-| 07 | 01/11/2023 | Responsive Design | [Recording Link]() |
-| 08 | 01/18/2023 | Responsive Positioning | [Recording Link]() |
-| 09 | 01/23/2023 | Intro to JavaScript | [Recording Link]() |
-| 10 | 01/25/2023 | DOM Manipulation | [Recording Link]() |
-| 11 | 01/30/2023 | Mid-Course Review Lab | [Recording Link]() |
-| 12 | 02/01/2023 | Interactive UI Components | [Recording Link]() |
-| 13 | 02/06/2023 | Conditional Statements | [Recording Link]() |
-| 14 | 02/08/2023 | Arrays and Loops | [Recording Link]() |
-| 15 | 02/13/2023 | Forms | [Recording Link]() |
-| 16 | 02/15/2023 | Final Review Lab | [Recording Link]() |
-| 17 | 02/22/2023 | Developer Tools | [Recording Link]() |
-| 18 | 02/27/2023 | Bootstrap & CSS Frameworks | [Recording Link]() |
-| 19 | 03/01/2023 | Final Project Worktime | [Recording Link]() |
-| 20 | 03/06/2023 | Final Project Presntations | [Recording Link]() |
+| 01 | 12/12/2022 | Installations, Intro to HTML | [Recording Link]() | |
+| 02 | 12/14/2022 | Semantic HTML, Intro to CSS | [Recording Link]() | Press Release (Due 12/21/2022) |
+| 03 | 12/19/2022 | Box Model | [Recording Link]() | |
+| 04 | 12/21/2022 | Intro to Flexbox | [Recording Link]() | Startup Matchmaker (Due 01/09/2023) |
+| 05 | 01/04/2023 | Intro to CSS Grid | [Recording Link]() | |
+| 06 | 01/09/2023 | Layout Lab | [Recording Link]() | Trulia (Due 01/18/2023) |
+| 07 | 01/11/2023 | Responsive Design | [Recording Link]() | |
+| 08 | 01/18/2023 | Responsive Positioning | [Recording Link]() | Trulia Modal (Due 01/25/2023) | 
+| 09 | 01/23/2023 | Intro to JavaScript | [Recording Link]() | |
+| 10 | 01/25/2023 | DOM Manipulation | [Recording Link]() | Slack Navigation (Due 02/01/2023) |
+| 11 | 01/30/2023 | Mid-Course Review Lab | [Recording Link]() | |
+| 12 | 02/01/2023 | Interactive UI Components | [Recording Link]() | Citipix (Due 02/08/2023) |
+| 13 | 02/06/2023 | Conditional Statements | [Recording Link]() | |
+| 14 | 02/08/2023 | Arrays and Loops | [Recording Link]() | |
+| 15 | 02/13/2023 | Forms | [Recording Link]() | |
+| 16 | 02/15/2023 | Final Review Lab | [Recording Link]() | |
+| 17 | 02/22/2023 | Developer Tools | [Recording Link]() | |
+| 18 | 02/27/2023 | Bootstrap & CSS Frameworks | [Recording Link]() | |
+| 19 | 03/01/2023 | Final Project Worktime | [Recording Link]() | |
+| 20 | 03/06/2023 | Final Project Presntations | [Recording Link]() | |
 
 
 ____
