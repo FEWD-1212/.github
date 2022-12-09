@@ -140,7 +140,7 @@ ____
 ## Course Schedule
 
 | Class | Date | Material | Recording | Homework |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:--:|
 | 01 | 12/12/2022 | Installations, Intro to HTML | [Recording Link]() | |
 | 02 | 12/14/2022 | Semantic HTML, Intro to CSS | [Recording Link]() | Press Release (Due 12/21/2022) |
 | 03 | 12/19/2022 | Box Model | [Recording Link]() | |
