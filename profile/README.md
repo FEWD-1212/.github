@@ -1,12 +1,12 @@
-# Class Wiki
+# Front End Web Development
 
 <div align="center">
-  <img src="images/wiki-logo.png" alt="wiki" height="500">
+  <img src="../images/general-assembly.png" alt="banner" width="100%">
 </div>
 
 ____
 
-Welcome to the <b>FEWD-1212 Class Wiki</b>.
+Welcome to <b>FEWD-1212</b>.
 
 <b>What this course IS:</b>
 
