@@ -1,12 +1,10 @@
-# Front End Web Development
-
 <div align="center">
   <img src="images/general-assembly.png" alt="banner" width="100%">
 </div>
 
 ____
 
-Welcome to <b>FEWD-1212</b>.
+## Welcome to <b>FEWD-1212</b>.
 
 <b>What this course IS:</b>
 
