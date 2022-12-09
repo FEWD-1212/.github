@@ -1,4 +1,6 @@
-# FEWD-1212
+<div align="center">
+  <img src="images/general-assembly.png" alt="banner" width="100%">
+</div>
 _____
 
 <div align="center">
