@@ -1,7 +1,7 @@
 # Front End Web Development
 
 <div align="center">
-  <img src="../images/general-assembly.png" alt="banner" width="100%">
+  <img src="images/general-assembly.png" alt="banner" width="100%">
 </div>
 
 ____
